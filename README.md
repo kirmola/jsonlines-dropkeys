@@ -10,7 +10,7 @@ pip install jsonlines-dropkeys
 
 ---
 
-## 7️⃣ Build & Install
+## Build & Install
 
 ```bash
 pip install .
