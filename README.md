@@ -14,7 +14,7 @@ pip install jsonlines-dropkeys
 
 ```bash
 pip install .
-
+```
 
 
 ## As a command line tool:
